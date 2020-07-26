@@ -1,15 +1,16 @@
 # ~ dharma_dev 
 
-
 ###### > SOFTWARE DEVELOPER
 
 
 #### WORK EXPERIENCE
 
+Junior Software Developer Consultant.
+
 **Technologies**: J2EE Web Applications (JSP/Servlet),
 Java 8, JavaScript, JQuery, GIT, Intellij IDEA.
 
-####TECHNICAL SKILLS
+#### TECHNICAL SKILLS
 
 * Java [J2EE (JSP/Servlet), Android, Spring Boot]
 * JavaScript [Vanilla, ES6, JQuery, NodeJS]
@@ -17,12 +18,6 @@ Java 8, JavaScript, JQuery, GIT, Intellij IDEA.
 * Flutter (Dart) 
 * SQL
 * C#
-
-# 
-
-![Portrait.](https://raw.githubusercontent.com/dharmadeveloper108/dharmadeveloper108/master/portrait.jpg "Artist's impression")
-
-#
 
 
 <!--
