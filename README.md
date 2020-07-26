@@ -7,16 +7,14 @@
 
 Junior Software Developer Consultant.
 
-**Technologies**: J2EE Web Applications (JSP/Servlet),
-Java 8, JavaScript, JQuery, GIT, Intellij IDEA.
+**Technologies**: J2EE Web Applications (JSP/Servlet), Java, JavaScript, HTML5, CSS3, ASP.NET, C#.
 
 #### TECHNICAL SKILLS
 
 * Java [J2EE (JSP/Servlet), Android, Spring Boot]
 * JavaScript [Vanilla, ES6, JQuery, NodeJS]
 * HTML5 & CSS3
-* Flutter (Dart) 
-* SQL
+* Flutter [Dart]
 * C#
 
 
