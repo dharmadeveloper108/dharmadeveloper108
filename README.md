@@ -1,4 +1,29 @@
-### Hi there 👋
+# ~ dharma_dev 
+
+
+###### > SOFTWARE DEVELOPER
+
+
+#### WORK EXPERIENCE
+
+**Technologies**: J2EE Web Applications (JSP/Servlet),
+Java 8, JavaScript, JQuery, GIT, Intellij IDEA.
+
+####TECHNICAL SKILLS
+
+* Java [J2EE (JSP/Servlet), Android, Spring Boot]
+* JavaScript [Vanilla, ES6, JQuery, NodeJS]
+* HTML5 & CSS3
+* Flutter (Dart) 
+* SQL
+* C#
+
+# 
+
+![Portrait.](https://raw.githubusercontent.com/dharmadeveloper108/dharmadeveloper108/master/portrait.jpg "Artist's impression")
+
+#
+
 
 <!--
 **dharmadeveloper108/dharmadeveloper108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
