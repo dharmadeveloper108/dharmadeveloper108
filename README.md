@@ -1,11 +1,7 @@
 # ~ Kamala 
 
-###### > SOFTWARE DEVELOPER
+###### > FULL STACK DEVELOPER
 
-#### ✨ TECH STACK 
-
-* Java [J2EE (JSP/Servlet), Android, Spring Boot]
-* C# [Blazor, .NET Core, LINQ]
-* JavaScript [Vanilla, ES6, JQuery, NodeJS]
-* HTML5 & CSS3
-* Flutter [Dart]
+#### ✨ President of Fun
+#### 🍓 CEO of leaving relevant and/or fruit emojis on code reviews
+#### :octocat: Stupider like a fox
